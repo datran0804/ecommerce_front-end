@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":"42,412 VND",
+        "image":"/product/08.png",
+        "status":"NEW ARRIVAL"
+    },
+    {
+        "id":2,
+        "title":"Monster Shoe",
+        "category":"Shoe",
+        "price":21.22,
+        "image":"/product/07.png",
+        "status":"NEW ARRIVAL"
+    },
+    {
+        "id":3,
+        "title":"Nike Bag",
+        "category":"Bag",
+        "price":43.33,
+        "image":"/product/09.png",
+        "status":"NEW ARRIVAL"
+    },
+    {
+        "id":4,
+        "title":"Adidas shoe",
+        "category":"Shoe",
+        "price":12.54,
+        "image":"/product/10.png",
+        "status":"NEW ARRIVAL"
+    },
+    {
+        "id":5,
+        "title":"High bag",
+        "category":"Bag",
+        "price":93.89,
+        "image":"/product/12.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":6,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":12.12,
+        "image":"/product/13.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":7,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":32.22,
+        "image":"/product/14.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":8,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":"23,423 VND",
+        "image":"/product/16.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":9,
+        "title":"Classic Jogers",
+        "category":"Shoe",
+        "price":"43,243 VND",
+        "image":"/product/16.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":10,
+        "title":"High bag",
+        "category":"Bag",
+        "price":"93,894 VND",
+        "image":"/product/12.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":11,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":"12,112 VND",
+        "image":"/product/13.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":12,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":"32,222 VND",
+        "image":"/product/14.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":13,
+        "title":"Audicolor Classic Jogers",
+        "category":"Dress",
+        "price":"43,123 VND",
+        "image":"/product/16.png",
+        "status":"BEST SELLERS"
+    },
+    {
+        "id":14,
+        "title":"Classic Jogers",
+        "category":"Shoe",
+        "price":"43,123 VND",
+        "image":"/product/16.png",
+        "status":"BEST SELLERS"
+    }
+    
+]
